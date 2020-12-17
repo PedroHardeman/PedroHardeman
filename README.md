@@ -1,15 +1,19 @@
-### Hi there 👋
+# Hi there, my name is Pedro
 
-<!--
-**PedroHardeman/PedroHardeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 29 years old;
+* Brazilian;
+* Frontend Developer;
+* Gamer;
+* Musician;
+* Experienced with
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img height="30px" alt="javascript" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />     <img height="30px" alt="css3" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" />     <img height="30px" alt="vscode" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" />     <img height="30px" alt="react" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />     <img height="30px" alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />     <img height="30px" alt="bootstrap" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" />     <img height="30px" alt="git" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />     <img height="30px" alt="php" src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" />     <img height="30px" alt="php" src="https://media.giphy.com/media/AqQ65Y3F1xZRmQd4Oi/giphy.gif" />     <img height="30px" alt="php" src="https://media.giphy.com/media/AD9gioAsK5446oiwjA/giphy.gif" />     <img height="30px" alt="php" src="https://media.giphy.com/media/lKArsQw3HxZUWMlURX/giphy.gif" />
+
+
+## Useful links
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/pedrohardeman/)
+[![](https://img.shields.io/badge/resume-green?style=flat-square)](https://docs.google.com/document/d/1Ql0PLCvv7eiJsNifOM7Yrod9JtuwYGPrCdTsDDgZ0x4/edit?usp=sharing)
+
+
+### Bonus :wink:
+[![](https://img.shields.io/badge/-steam-000000?style=flat-square)](https://steamcommunity.com/profiles/76561198084766243/)
