@@ -1,6 +1,6 @@
 # Hi there, my name is Pedro
 
-* 30 years old;
+* 32 years old;
 * Brazilian;
 * Frontend Developer;
 * Gamer;
