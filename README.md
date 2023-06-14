@@ -12,7 +12,7 @@
 
 ## Useful links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/pedrohardeman/)
-[![](https://img.shields.io/badge/resume-green?style=flat-square)](https://docs.google.com/document/d/1Ql0PLCvv7eiJsNifOM7Yrod9JtuwYGPrCdTsDDgZ0x4/edit?usp=sharing)
+[![](https://img.shields.io/badge/resume-green?style=flat-square)](https://docs.google.com/document/d/1NdTR6uL7pvvnSiJrhULP_rKjgry4cKedWQKT4rY9hAY/edit?usp=sharing)
 
 
 ### Bonus :wink:
